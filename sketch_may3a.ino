@@ -7,8 +7,8 @@
 
 #define led 2
 
-const char* ssid = "A&MLuans";
-const char* password = "a&mluans000408";
+const char* ssid = "################";
+const char* password = "#############";
  
 String webPage = "";
 String stylePage = "";
